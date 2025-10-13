@@ -94,3 +94,5 @@ metrics:
 checkpointer:
   keep_old: false
   comparator: gt
+
+# Update: 2025-10-14
